@@ -1,2 +1,2 @@
 # Javascript Asteroids
-Play the game at [https://amartinezacosta.github.io/asteroids](https://amartinezacosta.github.io/asteroids)
+Play the game at [https://amartinezacosta.github.io/Asteroids/asteroids](https://amartinezacosta.github.io/Asteroids/asteroids)
